@@ -1,0 +1,18 @@
+h2 {
+    text-align: center;
+}
+.Lorem{
+     font-size :small;
+     margin-left: 300px;
+     margin-right: 180px 
+}
+.card-title {
+    margin-bottom: var(--bs-card-title-spacer-y);
+    color: var(--bs-card-title-color);
+    margin-left: 100px;
+    margin-top: 70px;
+}
+.text{
+  
+        margin-left: -150px;
+    }

@@ -1,0 +1,50 @@
+label.btn {
+    width: 100px;
+    display: inline-flex;
+    margin: 10px;
+}
+.h5, h5 {
+    font-size: 1.25rem;
+    margin-top: 20px;
+}
+
+label.btn {
+    background: grey;
+}
+.Manas {
+
+    margin-top: -55px;
+    margin-left: 258px;
+
+}
+.gmail {
+    margin-top: -5px;
+    margin-left: 290px;
+}
+svg.bi.bi-arrow-up-circle {
+    color: #48c635;
+    width: 25px;
+    height: 25px;
+}
+svg.bi.bi-arrow-down-circle {
+    width: 25px;
+    height: 25px;
+    color: #48c635;
+}
+
+
+label.form-label {
+    margin-left: -1025px;
+    font-weight: bold;
+}
+button.btn.btn-primary {
+    display: inline-flex;
+    margin: 10px;
+    width: 150px;
+    padding: 15px 20px 35px 50px;
+}
+
+svg.bi.bi-gear {
+    margin-left: 95px;
+}
+

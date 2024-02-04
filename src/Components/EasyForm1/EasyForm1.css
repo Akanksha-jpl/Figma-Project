@@ -1,0 +1,29 @@
+ .easylogo {
+     margin-left: -607px;
+     margin-top: 30px;
+ }
+
+ .Manas {
+
+     margin-top: -55px;
+     margin-left: 258px;
+
+ }
+
+ .gmail {
+     margin-top: -5px;
+     margin-left: 290px;
+ }
+ svg.bi.bi-arrow-up-circle {
+    color: green;
+    width: 25px;
+    height: 25px;
+}
+svg.bi.bi-arrow-down-circle {
+    width: 25px;
+    height: 25px;
+    color: #48c635;
+}
+ h5.card-title.word {
+    margin-left: 10px;
+}

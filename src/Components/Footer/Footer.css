@@ -1,0 +1,22 @@
+h5 {
+    margin-left: 35px;
+}
+svg.bi.bi-telephone {
+    color: green;
+}
+svg.bi.bi-envelope {
+    color: green;
+}
+svg.bi.bi-geo-alt {
+    color: green;
+}
+li {
+    list-style: none;
+}
+.footertext {
+    margin-left: 20px;
+}
+p.footer {
+    margin-left: 20px;
+    font-size: 12px;
+}

@@ -1,0 +1,17 @@
+h3 {
+    text-align: center;
+    color: #8BC34A;
+}
+h4 {
+    text-align: center;
+}
+img.rounded {
+    margin-left: 15px;
+    /* background: white; */
+}
+h2.customer {
+    text-align: center;
+}
+.ipsum {
+    margin-left: 300px;
+}

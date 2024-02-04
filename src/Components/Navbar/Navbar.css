@@ -1,0 +1,15 @@
+.container-fluid {
+    margin-left: 100px;
+}
+nav.navbar.navbar-expand-lg.bg-body-tertiary {
+    margin-left: -51px;
+}
+svg.bi.bi-journal-text {
+    height: 25px;
+    width: 25px;
+    font-weight: bold;
+}
+.navbar-brand {
+    font-weight: bold;
+    
+}

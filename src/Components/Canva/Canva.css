@@ -1,0 +1,29 @@
+h1.icons-arrow {
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+a.icons-arrow {
+    margin-left: 100px;
+    color: green;
+    margin-top: 40px;
+}
+
+.card-title {
+    margin-left: 0;
+}
+
+.arrows {
+    width: 100px;
+    height: 80px;
+    margin-left: 110px;
+    margin-top: 10px;
+}
+
+.canva {
+    border-radius: 20px;
+    width: 250px;
+    height: 250px;
+    background: "lightgray";
+    margin-right: 25px;
+}
